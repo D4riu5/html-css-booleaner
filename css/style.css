@@ -5,15 +5,15 @@
 
 /* page title */
 h1{
-    margin-right: 5%;
+    padding-right: 5%;
     margin-bottom: 0;
 }
 
 /* subtext under Title */
-span{
+span#author{
     color: gray;
 }
-span.span-date{
+span#span-date{
     font-size: 12px;
 }
 
@@ -23,7 +23,7 @@ span.span-date{
     color: rgb(8, 164, 236);
 }
 
-
+/* banner styling */
 #banner{
     height: 73.33px;
     background-image: url(../img/pattern.png);
@@ -35,6 +35,24 @@ span.span-date{
     padding-left: 8px;
     padding-top: 30px;
     width: 130px;
-    height: 30px;
-  
+    height: 30px; 
+}
+
+/* Tim images styling */
+.Tim-images{
+    margin-top: 20px;
+}
+
+img.tim{
+    width: 380px;
+    height: 250px;
+}
+
+.photo-bibliography{
+margin-top: 0;
+font-size: 12px;
+}
+
+.highlight{
+    background-color: yellow;
 }
