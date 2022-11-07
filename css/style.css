@@ -1,0 +1,40 @@
+#container{
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* page title */
+h1{
+    margin-right: 5%;
+    margin-bottom: 0;
+}
+
+/* subtext under Title */
+span{
+    color: gray;
+}
+span.span-date{
+    font-size: 12px;
+}
+
+/* link decoration, under Title */
+#booleaner-link{
+    text-decoration: none;
+    color: rgb(8, 164, 236);
+}
+
+
+#banner{
+    height: 73.33px;
+    background-image: url(../img/pattern.png);
+    background-size: 300px 140px;
+    background-color: rgb(65, 159, 240);
+}
+
+#logo{
+    padding-left: 8px;
+    padding-top: 30px;
+    width: 130px;
+    height: 30px;
+  
+}
