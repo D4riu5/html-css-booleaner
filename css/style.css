@@ -1,5 +1,5 @@
 #container{
-    width: 50%;
+    width: 1420px;
     margin: 0 auto;
 }
 
@@ -43,8 +43,8 @@ span#span-date{
 
 img.tim{
     margin-top: 10px;
-    width: 380px;
-    height: 250px;
+    width: 680px;
+    height: 450px;
 }
 
 /* text below tim pictures */
@@ -59,7 +59,7 @@ font-size: 12px;
 
 /* table styiling */
 table{
-    width: 784px;
+    width: 1412px;
     background-color: cyan;
     border-collapse:collapse;
 }
