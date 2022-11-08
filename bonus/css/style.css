@@ -1,5 +1,5 @@
-#container{
-    width: 50%;
+.container{
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -48,7 +48,7 @@ img.tim{
 }
 
 /* text below tim pictures */
-.photo-bibliography{
+.photo-caption{
 margin-top: 0;
 font-size: 12px;
 }
@@ -59,20 +59,16 @@ font-size: 12px;
 
 /* table styiling */
 table{
-    width: 784px;
     background-color: cyan;
     border-collapse:collapse;
 }
 .table-head-row{
-    width: 80px;
-    height: 22px;
     background-color: rgb(0, 164, 252);
     color: white;
     text-align: left;
 }
-.table-head-row2{
-    width: 150px;
-    height: 22px;
+.special-column{
+    width: 50%;
     background-color: rgb(0, 164, 252);
     color: white;
     text-align: left;
