@@ -1,5 +1,5 @@
 # html-css-booleaner
-Es. Boolean 3 (04/11/22) + bonus
+Es. Boolean 3 (07/11/22) + bonus
 
 Ciao Ragazzi,
 esercizio di oggi The Booleaner
